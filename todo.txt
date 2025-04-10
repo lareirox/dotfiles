@@ -1,0 +1,6 @@
+Mails e Utilizador do 42Header
+Ler Kickstarter
+Plugins ZSH (p10k ou starship, +- ZAP)
+Ver video do typecraft de tmux (vim-tmux navigator e tmux ressurect)
+Ver video do kickstarter
+Instalar 1 nerdfont (Firacode ou JetbrainsMonoNL)
